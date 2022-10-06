@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+# 
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=nhnghia&show_icons=true&hide_border=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nhnghia&layout=compact&theme=dark&hide_border=true)
+
+
+![](https://komarev.com/ghpvc/?username=nhnghia&style=flat-square&label=Page+Views)
+
 <!--
 **nhnghia/nhnghia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
